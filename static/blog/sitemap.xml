@@ -4,161 +4,161 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>./</loc>
-<lastmod>2016-06-23T11:01:22-00:00</lastmod>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/</loc>
+<lastmod>2016-06-23T11:04:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./archives.html</loc>
-<lastmod>2016-06-23T11:01:22-00:00</lastmod>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/archives.html</loc>
+<lastmod>2016-06-23T11:04:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tags.html</loc>
-<lastmod>2016-06-23T11:01:22-00:00</lastmod>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/tags.html</loc>
+<lastmod>2016-06-23T11:04:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./categories.html</loc>
-<lastmod>2016-06-23T11:01:22-00:00</lastmod>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/categories.html</loc>
+<lastmod>2016-06-23T11:04:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323205-qi-mo-bao-gao.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/40323205-qi-mo-bao-gao.html</loc>
 <lastmod>2016-06-23T11:01:15+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323205-cdw13-bao-gao.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/40323205-cdw13-bao-gao.html</loc>
 <lastmod>2016-06-23T11:01:15+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323205-cdw11-bao-gao.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/40323205-cdw11-bao-gao.html</loc>
 <lastmod>2016-06-23T11:01:15+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323203-qi-mo-bao-gao.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/40323203-qi-mo-bao-gao.html</loc>
 <lastmod>2016-06-23T11:00:30+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323203-cdw11-bao-gao.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/40323203-cdw11-bao-gao.html</loc>
 <lastmod>2016-06-23T11:00:30+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40323203-cdw13-bao-gao.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/40323203-cdw13-bao-gao.html</loc>
 <lastmod>2016-06-23T11:00:30+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/xie-tong-chan-pin-she-ji-shi-xi-qi-mo-kao-zhou-zhuan-an-bao-gao.html</loc>
 <lastmod>2016-06-23T11:00:15+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/ag100.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/category/ag100.html</loc>
 <lastmod>2016-06-23T11:00:15+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/bg4.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/category/bg4.html</loc>
 <lastmod>2016-06-23T11:01:15+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/qi-mo-bao-gao.html</loc>
-<lastmod>2016-06-23T11:01:15+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/cdw18.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/tag/cdw18.html</loc>
 <lastmod>2016-06-23T11:00:15+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323205.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/tag/40323199.html</loc>
+<lastmod>2016-06-23T11:00:15+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/tag/40323205.html</loc>
 <lastmod>2016-06-23T11:01:15+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/cdw11.html</loc>
-<lastmod>2016-06-23T11:01:15+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/40323203.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/tag/40323203.html</loc>
 <lastmod>2016-06-23T11:00:30+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/cdw13.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/tag/cdw13.html</loc>
 <lastmod>2016-06-23T11:01:15+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/40323199.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/tag/qi-mo-bao-gao.html</loc>
+<lastmod>2016-06-23T11:01:15+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/tag/cdw11.html</loc>
+<lastmod>2016-06-23T11:01:15+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/author/40323199.html</loc>
 <lastmod>2016-06-23T11:00:15+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323199.html</loc>
-<lastmod>2016-06-23T11:00:15+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./author/40323203.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/author/40323203.html</loc>
 <lastmod>2016-06-23T11:00:30+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40323205.html</loc>
+<loc>https://40323203.github.io/2016springcd_bG4/static/blog/author/40323205.html</loc>
 <lastmod>2016-06-23T11:01:15+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
