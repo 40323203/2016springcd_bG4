@@ -15,6 +15,9 @@
 40323208 Pelican: https://40323203.github.io/2016springcd_bG4/static/blog/40323208-qi-mo-bao-gao.html
 
 
+40123128 Pelican:https://40323203.github.io/2016springcd_bG4/static/blog/40123128-qi-mo-bao-gao.html
+
+
 40323201個人2D繪圖:http://bg4cdw11-40323201.rhcloud.com/bg4_40323201/draw2D
 
 
@@ -29,5 +32,8 @@
 
 40323208個人2D繪圖:http://bg4cdw11-40323208.rhcloud.com/bg4_40323208/work
 
+
+40123128個人2D繪圖:http://i.imgur.com/cFqtgCt.png?1
+                              http://i.imgur.com/Up8K5rF.png?1
 
 組別協同 Onshape 3D: https://cad.onshape.com/documents/44185f005014906c2cb3df47/w/741bf6c8c8957f523401dcaf/e/a13dd7287c6432553e1c80c8
